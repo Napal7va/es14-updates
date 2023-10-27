@@ -3,7 +3,7 @@
 'use strict';
 console.log(2*3);
 
-#!/usr/bin/env node
+// #!/usr/bin/env node
 // in the Module Goal
 export {};
 console.log(2*2);
